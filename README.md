@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌤️ Weather App (Full Stack)
 
 ## 🚀 Features
@@ -25,3 +26,6 @@ node server.js
 ## 🌐 API Endpoints
 - GET /api/weather/all
 - POST /api/weather/save
+=======
+# PM-Weather-App
+>>>>>>> de28d378dd4f359089b1c9f7da0c330fcfb44530
